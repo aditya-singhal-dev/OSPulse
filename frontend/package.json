@@ -1,0 +1,15 @@
+{
+  "name": "os-pulse",
+  "private": true,
+  "type": "module",
+  "scripts": {"dev":"vite","build":"vite build","lint":"eslint src"},
+  "dependencies": {
+    "react":"^19.0.0","react-dom":"^19.0.0","recharts":"^3.0.0",
+    "framer-motion":"^12.0.0","lucide-react":"^0.468.0","@xyflow/react":"^12.0.0"
+  },
+  "devDependencies": {
+    "vite":"^6.0.0","@vitejs/plugin-react":"^4.3.0",
+    "tailwindcss":"^4.1.0","@tailwindcss/vite":"^4.1.0",
+    "eslint":"^9.0.0","eslint-plugin-react":"^7.37.0","globals":"^16.0.0"
+  }
+}
